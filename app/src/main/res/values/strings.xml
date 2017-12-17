@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Praktikum XML</string>
+    <string name="web_server_button">click to parse from web server</string>
+</resources>

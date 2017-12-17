@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bukus>
+    <buku>
+        <kode>12-34</kode>
+        <judul>Android untuk Pemula</judul>
+        <pengarang>Susi</pengarang>
+    </buku>
+
+    <buku>
+        <kode>56-78</kode>
+        <judul>Android Tingkat Lanjut</judul>
+        <pengarang>Tanto</pengarang>
+    </buku>
+</bukus>
