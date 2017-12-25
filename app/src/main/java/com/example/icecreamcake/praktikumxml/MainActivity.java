@@ -102,12 +102,9 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         for (XMLParser.Buku buku : bukus){
-            htmlString.append("<p>"+buku.judul+"<p>");
-            htmlString.append("<br/>");
-            htmlString.append("<p>"+buku.pengarang+"<p>");
-            htmlString.append("<br/>");
-            htmlString.append("<p>"+buku.kode+"<p>");
-            htmlString.append("<br/>");
+            htmlString.append("<p>Judul Buku: "+buku.judul+"<p>");
+            htmlString.append("<p>Nama Pengarang: "+buku.pengarang+"<p>");
+            htmlString.append("<p>Kode Buku: "+buku.kode+"<p>");
             htmlString.append("<br/>");
         }
         return htmlString.toString();
